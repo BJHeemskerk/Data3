@@ -2,4 +2,4 @@
 MovieSummaries/
 
 # Ignore the movies_database.db file
-movies_database.db
+movie_database.db
